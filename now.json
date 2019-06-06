@@ -1,0 +1,1 @@
+{"version":2,"name":"deckgl-lumagl-error","builds":[{"src":"package.json","use":"@now/next"}]}
